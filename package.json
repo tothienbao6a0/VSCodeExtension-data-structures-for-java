@@ -1,0 +1,23 @@
+{
+  "name": "data-structures-for-java",
+  "displayName": "Data Structures for Java",
+  "description": "Shortcut for Implementing Data Structures in Java",
+  "version": "1.0.1",
+  "publisher": "BaoTo",
+  "icon": "logo.png",
+  "repository": {},
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "java",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
