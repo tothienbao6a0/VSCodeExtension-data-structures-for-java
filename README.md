@@ -1,4 +1,4 @@
-# Java Data Structures Snippets
+# Data Structures Implementations for Java Extension - Now available on VSCode Marketplace!
 
 Author: Bao To
 
